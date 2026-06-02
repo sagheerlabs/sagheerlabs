@@ -37,4 +37,4 @@
 AI shouldnt be limited to massive server farms. We believe powerful models should run on the devices people already have.
 
 <br>
-<p align="center"><b>Sagheer Labs</b> &mdash; big ideas, smaller models.</p>
+<p align="center"><b>Sagheer Labs</b> - big ideas, smaller models.</p>
