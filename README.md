@@ -1,5 +1,7 @@
 <div align="center">
 
+<h1>Sagheer Labs</h1>
+
   <i>Two students from the <b>UAE</b> building efficient AI LLMs from scratch.</i>
 
   <br><br>
