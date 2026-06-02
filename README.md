@@ -18,38 +18,21 @@
 
 ---
 
-### Who we are
-
-We are two students from the UAE. We train, finetune, and build LLMs from scratch. Our goal is to make small, efficient models that run on any device.
-
-### What we do
-
-We design and train efficient LLMs optimized for low resource hardware. We focus on model compression, efficient attention, and training pipelines that squeeze maximum performance out of minimal compute.
-
-### What we do NOT do
-
-We do not make bloated models. We fully open source our code and weights. Accessible AI for everyone.
+<div align="center">
+We make AI that runs on the devices people actually have.
+<br><br>
+Efficient architectures &middot; From scratch &middot; Low resource inference
+</div>
 
 ---
+
+### About
+
+Two students based in the UAE. We build LLMs from the ground up and optimize them to run on hardware that isnt a server rack.
 
 ### Models
 
-- **Sagheer 1B Base** - (<i>coming soon</i>)
-- **Sagheer 1B Instruct** - (<i>coming soon</i>)
-
-More coming soon.
-
----
-
-### Hardware
-
-- (your hardware here)
-
----
-
-### Blog
-
-Coming soon.
+Currently in development. Stay tuned.
 
 ---
 
