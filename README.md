@@ -1,48 +1,11 @@
-<div align="center">
+<a href="https://sagheerlabs.tech"><img src="assets/hero.svg" width="100%" alt="sagheerlabs. We’re starting small. We’re not thinking small. Independent AI research lab, UAE."></a>
 
-<h1>Sagheer Labs</h1>
+SagheerLabs is an independent AI research lab in the UAE, building efficient language models from scratch for the devices people actually have.
 
-<i>Two students from the <b>UAE</b> building efficient AI LLMs from scratch.</i>
+<a href="https://sagheerlabs.tech"><img src="assets/button-website.svg" height="42" alt="Website"></a>
+<a href="https://huggingface.co/SagheerLab"><img src="assets/button-hugging-face.svg" height="42" alt="Hugging Face"></a>
+<a href="https://huggingface.co/datasets/SagheerLab/Arithmetic-Reasoning"><img src="assets/button-dataset.svg" height="42" alt="Dataset"></a>
 
-<br><br>
+<a href="https://huggingface.co/SagheerLab"><img src="assets/models.svg" width="100%" alt="Models. SagheerLabs 100M: language model, 100M+ parameters, trained. Arithmetic-Reasoning: dataset, about 50 million examples, Apache-2.0, released."></a>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-
-<br><br>
-
-<img src="https://api.visitorbadge.io/api/Visitor?countColor=%23263759&style=flat-square&label=Visitors&labelColor=%23555555">
-</div>
-
----
-
-<div align="center">
-We make AI that runs on the devices people actually have.
-<br><br>
-Efficient architectures &middot; From scratch &middot; Low resource inference
-</div>
-
----
-
-### About
-
-Two students based in the UAE. We build LLMs from the ground up and optimize them to run on hardware that isnt a server rack.
-
-### Models
-
-Currently in development. Stay tuned.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagheerlabs&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagheerlabs&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150">
-</div>
-
----
-
-<div align="center">
-  <sub>Sagheer Labs &middot; UAE</sub>
-</div>
+<a href="https://sagheerlabs.tech"><img src="assets/research.svg" width="100%" alt="Research, seven areas: foundation models, novel architectures, efficient AI, high-speed inference, mobile and edge AI, autonomous systems, AGI research."></a>
